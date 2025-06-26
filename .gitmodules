@@ -1,0 +1,6 @@
+[submodule "ShowCaseMeGUI"]
+	path = ShowCaseMeGUI
+	url = https://github.com/Path-of-Execution/ShowCaseMeGUI
+[submodule "ShowCaseMeAPI"]
+	path = ShowCaseMeAPI
+	url = https://github.com/Path-of-Execution/ShowCaseMeAPI
